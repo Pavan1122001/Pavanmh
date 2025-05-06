@@ -41,7 +41,6 @@
 |--------|-------------|-------|------|
 | **Loan Calculator** | Currency-based loan EMI calculator using Formik, Yup, and live exchange rates | React, MUI, API | [Demo](#) |
 | **Task Manager App** | MERN stack task manager with login, CRUD, and role-based access | React, Node, MongoDB | Coming Soon |
-| **Blog Platform (WIP)** | Full-stack blog platform with Markdown support and admin panel | React, PostgreSQL, Node | Coming Soon |
 
 ---
 
@@ -50,7 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pavan1122001&show_icons=true&theme=radical" alt="Pavan's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan1122001&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan1122001&theme=radical" alt="GitHub Streak" /> -->
 </p>
 
 ---
