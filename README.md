@@ -39,7 +39,7 @@
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
-| **Loan Calculator** | Currency-based loan EMI calculator using Formik, Yup, and live exchange rates | React, MUI, API | [Demo](#) |
+| **Loan Calculator** | Currency-based loan EMI calculator using Formik, Yup, and live exchange rates | React, MUI, API | [Demo](https://loan-emi-calculator-seven.vercel.app/) |
 | **Task Manager App** | MERN stack task manager with login, CRUD, and role-based access | React, Node, MongoDB | Coming Soon |
 
 ---
